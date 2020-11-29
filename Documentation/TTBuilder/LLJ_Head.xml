@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Timetable>
+  <TimeTableStart>05:00</TimeTableStart>
+  <Defs>
+    <Def Name="ChesterIn" Data="53-19 52-19"></Def>
+    <Def Name="ChesterOut" Data="53-18"></Def>
+
+    <Def Name="BlaenauIn" Data="41-38 41-37"></Def>
+    <Def Name="BlaenauOut" Data="41-38"></Def>
+
+    <Def Name="HolyheadIn" Data="N29-18 N28-19"></Def>
+    <Def Name="HolyheadOut" Data="N29-19"></Def>
+
+    <Def Name="LlandudnoIn" Data="4-N8 4-N7"></Def>
+    <Def Name="LlandudnoOut" Data="3-N8"></Def>
+  </Defs>
+</Timetable>
