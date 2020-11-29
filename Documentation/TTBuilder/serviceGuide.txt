@@ -1,4 +1,15 @@
-Holyhead to Shrewsbury    05:15,06:20,07:27,09:28,10:25,12:19,16:40
-Chester D.M.U.D to LLJ    a05:22
-Chester to LLJ            a05:38
-LLJ to Llandudno          05:40
+Times for departure (or arrival) at Llandudno Junction. Timetable based on 04/12/2020 at 0700-1100.
+
+Llandudno to LLJ + return   a07:18,a08:12,a08:41,a09:54,a10:53
+LLJ to Blaenau Ffestiniog   07:26
+Holyhead to Shrewsbury      07:27,09:28,10:25
+Holyhead to Euston          07:40
+CREWE to VALLEY (FRGT)      p07:49,p08:58
+Llandudno to Man Airport    07:54
+Crewe to Holyhead           08:17
+Holyhead to Chester         08:26
+Shrewsbury to Llandudno     09:18
+Man Piccadilly to Holyhead  09:48,10:53
+Blaenau Ffestiniog to Llan  09:50
+Shrewsbury to Holyhead      10:32
+Llan to Blaenau Ffestiniog  10:33
