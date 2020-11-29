@@ -9,7 +9,7 @@
     <Def Name="BlaenauIn" Data="41-38 41-37"></Def>
     <Def Name="BlaenauOut" Data="41-38"></Def>
 
-    <Def Name="HolyheadIn" Data="N29-18 N28-19"></Def>
+    <Def Name="HolyheadIn" Data="N29-18 N28-18"></Def>
     <Def Name="HolyheadOut" Data="N29-19"></Def>
 
     <Def Name="LlandudnoIn" Data="4-N8 4-N7"></Def>

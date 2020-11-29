@@ -1,1 +1,4 @@
-Holyhead to Shrewsbury		05:15,06:20,07:27,09:28,10:25,12:19,16:40
+Holyhead to Shrewsbury    05:15,06:20,07:27,09:28,10:25,12:19,16:40
+Chester D.M.U.D to LLJ    a05:22
+Chester to LLJ            a05:38
+LLJ to Llandudno          05:40
