@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Timetable>
+  <Group Info="AW Llandudno Shuttle">
+    <Service id="2D53" Desc="Llandudno to Llandudno Junction">
+      <Equipment>50;161;98;37;671</Equipment>
+        <Element>  <Time>23:53</Time>  <Data>Snt;LlandudnoIn</Data> </Element>
+        <Element>  <Time>23:54</Time><Time>23:54</Time>  <Data>Deganwy</Data> </Element>
+        <Element>  <Time>00:00</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:01</Time>  <Data>cdt</Data>  </Element>
+        <Element>  <Time>00:02</Time>  <Data>Fns;%ID%-2D54</Data>  </Element>
+        <Starttime>07:18</Starttime>
+        <Starttime>08:12</Starttime>
+        <Starttime>08:41</Starttime>
+        <Starttime>09:54</Starttime>
+        <Starttime>10:53</Starttime>
+    </Service>
+    <Service id="2D54" Desc="Llandudno Junction to Llandudno">
+        <Element>  <Time>00:02</Time>  <Data>Sns;%ID%-2D53</Data>  </Element>
+        <Element>  <Time>00:13</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:16</Time><Time>00:16</Time>  <Data>Deganwy</Data> </Element>
+        <Element>  <Time>00:17</Time>  <Data>Fer;LlandudnoOut</Data>  </Element>
+        <Starttime>07:18</Starttime>
+        <Starttime>08:12</Starttime>
+        <Starttime>08:41</Starttime>
+        <Starttime>09:54</Starttime>
+        <Starttime>10:53</Starttime>
+    </Service>
+  </Group>
+  <Group Info="AW Llandudno Services">
+    <Service id="1H83" Desc="Llandudno to Manchester Airport">
+      <Equipment>50;161;98;37;671</Equipment>
+        <Element>  <Time>23:54</Time>  <Data>Snt;LlandudnoIn</Data> </Element>
+        <Element>  <Time>23:55</Time><Time>23:55</Time>  <Data>Deganwy</Data> </Element>
+        <Element>  <Time>00:00</Time><Time>00:00</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:02</Time>  <Data>Fer;ChesterOut</Data>  </Element>
+        <Starttime>07:54</Starttime>
+    </Service>
+    <Service id="1W90" Desc="Shrewsbury to Llandudno">
+      <Equipment>50;201;204;76;2237</Equipment>
+        <Element>  <Time>23:57</Time>  <Data>Snt;ChesterIn</Data> </Element>
+        <Element>  <Time>23:59</Time><Time>00:00</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:03</Time><Time>00:03</Time>  <Data>Deganwy</Data>  </Element>
+        <Element>  <Time>00:04</Time>  <Data>Fer;LlandudnoOut</Data>  </Element>
+        <Starttime>09:18</Starttime>
+    </Service>
+  </Group>
+  <Group Info="AW Blaenau Services">
+    <Service id="2D12" Desc="Llandudno Junction to Blaenau Ffestiniog">
+      <Equipment>0;161;98;37;671</Equipment>
+        <Element>  <Data>StartTime</Data>  <Data>Snt;LlandudnoStartPlat4</Data> </Element>
+        <Element>  <Time>00:00</Time>  <Data>Llandudno Junction</Data> </Element>
+        <Element>  <Time>00:03</Time><Time>00:03</Time>  <Data>Glan Conwy</Data>  </Element>
+        <Element>  <Time>00:04</Time>  <Data>Fer;BlaenauOut</Data>  </Element>
+        <Starttime>07:26</Starttime>
+    </Service>
+    <Service id="2D13" Desc="Blaenau Ffestiniog to Llandudno">
+      <Equipment>50;201;204;76;2237</Equipment>
+        <Element>  <Time>23:39</Time>  <Data>Snt;BlaenauIn</Data> </Element>
+        <Element>  <Time>23:40</Time><Time>23:40</Time>  <Data>Glan Conwy</Data>  </Element>
+        <Element>  <Time>23:47</Time><Time>00:00</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:03</Time><Time>00:03</Time>  <Data>Deganwy</Data>  </Element>
+        <Element>  <Time>00:04</Time>  <Data>Fer;LlandudnoOut</Data>  </Element>
+        <Starttime>09:50</Starttime>
+    </Service>
+    <Service id="2D14" Desc="Llandudno to Blaenau Ffestiniog">
+      <Equipment>50;161;98;37;671</Equipment>
+        <Element>  <Time>23:52</Time>  <Data>Snt;LlandudnoIn</Data> </Element>
+        <Element>  <Time>23:53</Time><Time>23:53</Time>  <Data>Deganwy</Data> </Element>
+        <Element>  <Time>00:00</Time><Time>00:14</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:17</Time><Time>00:17</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:18</Time>  <Data>Fer;BlaenauOut</Data>  </Element>
+        <Starttime>10:33</Starttime>
+    </Service>
+  </Group>
+  <Group Info="AW Holyhead Services">
+    <Service id="1V92" Desc="Holyhead to Shrewsbury">
+      <Equipment>50;161;98;37;671</Equipment>
+        <Element>  <Time>23:57</Time>  <Data>Snt;HolyheadIn</Data> </Element>
+        <Element>  <Time>23:59</Time>  <Time>00:00</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:02</Time>  <Data>Fer;ChesterOut</Data>  </Element>
+        <Starttime>07:27</Starttime>
+        <Starttime>09:28</Starttime>
+        <Starttime>10:25</Starttime>
+    </Service>
+    <Service id="1K31" Desc="Holyhead to Chester">
+      <Equipment>50;161;98;37;671</Equipment>
+        <Element>  <Time>23:54</Time>  <Data>Snt;HolyheadIn</Data> </Element>
+        <Element>  <Time>23:55</Time>  <Time>23:55</Time>  <Data>Conwy</Data>  </Element>
+        <Element>  <Time>23:58</Time>  <Time>00:00</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:02</Time>  <Data>Fer;ChesterOut</Data>  </Element>
+        <Starttime>08:26</Starttime>
+    </Service>
+    <Service id="1D10" Desc="Crewe to Holyhead">
+      <Equipment>50;201;204;76;2237</Equipment>
+        <Element>  <Time>23:57</Time>  <Data>Snt;ChesterIn</Data> </Element>
+        <Element>  <Time>23:59</Time><Time>00:00</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:03</Time><Time>00:03</Time>  <Data>Conwy</Data>  </Element>
+        <Element>  <Time>00:04</Time>  <Data>Fer;HolyheadOut</Data>  </Element>
+        <Starttime>08:17</Starttime>
+    </Service>
+    <Service id="1D32" Desc="Manchester Piccadilly to Holyhead">
+      <Equipment>50;201;204;76;2237</Equipment>
+        <Element>  <Time>23:57</Time>  <Data>Snt;ChesterIn</Data> </Element>
+        <Element>  <Time>23:59</Time><Time>00:00</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:03</Time><Time>00:03</Time>  <Data>Conwy</Data>  </Element>
+        <Element>  <Time>00:04</Time>  <Data>Fer;HolyheadOut</Data>  </Element>
+        <Starttime>09:48</Starttime>
+        <Starttime>10:53</Starttime>
+    </Service>
+    <Service id="1W91" Desc="Shrewsbury to Holyhead">
+      <Equipment>50;201;204;76;2237</Equipment>
+        <Element>  <Time>23:57</Time>  <Data>Snt;ChesterIn</Data> </Element>
+        <Element>  <Time>23:59</Time><Time>00:00</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:03</Time>  <Data>Fer;HolyheadOut</Data>  </Element>
+        <Starttime>10:32</Starttime>
+    </Service>
+  </Group>
+  <Group Info="VT Holyhead Services">
+    <Service id="1A13" Desc="Holyhead to London Euston">
+      <Equipment>50;201;204;76;2237</Equipment>
+        <Element>  <Time>23:57</Time>  <Data>Snt;HolyheadIn</Data> </Element>
+        <Element>  <Time>23:59</Time>  <Time>00:00</Time>  <Data>Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:02</Time>  <Data>Fer;ChesterOut</Data>  </Element>
+        <Starttime>07:40</Starttime>
+    </Service>
+  </Group>
+  <Group Info="Freight Services">
+    <Service id="4Z12" Desc="Crewe Coal Sidings (DRS) to Valley Nuclear Electric">
+      <Equipment>50;201;204;76;2237</Equipment>
+        <Element>  <Time>23:58</Time>  <Data>Snt;ChesterIn</Data> </Element>
+        <Element>  <Time>00:00</Time>  <Data>pas;Llandudno Junction</Data>  </Element>
+        <Element>  <Time>00:03</Time>  <Data>Fer;HolyheadOut</Data>  </Element>
+        <Starttime>07:49</Starttime>
+        <Starttime>08:58</Starttime>
+    </Service>
+  </Group>
+</Timetable>
