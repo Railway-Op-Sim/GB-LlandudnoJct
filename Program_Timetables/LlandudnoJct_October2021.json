@@ -1,0 +1,29 @@
+{
+  "startTime":"06:00",
+  "services": [
+    {
+      "ref":"1D81",
+      "description":"Crewe to Holyhead",
+      "startSpeed": 120,
+      "maxSpeed": 201,
+      "mass": 280,
+      "maxBrake": 105,
+      "power": 2796,
+      "increment": 1,
+      "events": [
+        "23:58;Snt;53-19 52-19",
+        "23:59;00:00;Llandudno Junction",
+        "00:02;Fer;N29-19"
+      ],
+      "times": [
+        {"time":"07:32","ref":"1D80"},
+        "11:04",
+        {"time":"12:02","description":"London Euston to Holyhead"},
+        "13:01",
+        {"time":"19:00","ref":"1D90","description":"Crewe to Bangor (Gwynedd)"},
+        {"time":"20:13","ref":"1D91"},
+        {"time":"21:10","ref":"1D92","description":"Chester to Holyhead"}
+      ]
+    }
+  ]
+}
