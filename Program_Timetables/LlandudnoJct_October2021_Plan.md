@@ -1,11 +1,13 @@
 # Timetable Plan
 ## VT
 - From Chester and London DONE
-- To Chester and London (https://www.realtimetrains.co.uk/search/detailed/gb-nr:LLJ/to/gb-nr:CTR/2021-10-18/0600-2200?stp=WVS&show=all&order=wtt&toc=VT)
+- To Chester and London DONE
 
 ## AW
-- To Holyhead (https://www.realtimetrains.co.uk/search/detailed/gb-nr:LLJ/to/gb-nr:HHD/2021-10-18/0600-2200?stp=WVS&show=all&order=wtt&toc=AW)
-- From Holyhead (https://www.realtimetrains.co.uk/search/detailed/gb-nr:LLJ/from/gb-nr:HHD/2021-10-18/0600-2200?stp=WVS&show=all&order=wtt&toc=AW)
+- To Holyhead DONE
+- To Holyhead calling at Conwy DONE
+- From Holyhead DONE
+- From Holyhead calling at Conwy DONE
 
 - From Llandudno:
 Via Rhyl (https://www.realtimetrains.co.uk/search/detailed/gb-nr:LLJ/from/gb-nr:LLD/to/gb-nr:RHL/2021-10-18/0600-2200?stp=WVS&show=all&order=wtt&toc=AW)
