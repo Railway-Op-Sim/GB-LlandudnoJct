@@ -1,5 +1,5 @@
 {
-  "startTime":"06:00",
+  "startTime":"05:56",
   "services": [
     {
       "ref":"1D81",
@@ -150,6 +150,52 @@
         {"time":"12:18","ref":"1V96","description":"Holyhead to Cardiff Central"},
         {"time":"13:59","ref":"1H89","description":"Holyhead to Manchester Airport"},
         {"time":"17:21","ref":"1V98","description":"Holyhead to Cardiff Central"}
+      ]
+    },
+    {
+      "ref":"1D81",
+      "description":"Llandudno via Rhyl",
+      "startSpeed": 120,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 1,
+      "events": [
+        "23:50;Snt;4-N8 4-N7",
+        "23:50;23:50;Deganwy",
+        "23:57;00:00;Llandudno Junction",
+        "00:01;Fer;53-18"
+      ],
+      "times": [
+        {"time":"06:07","ref":"1D81","description":"Llandudno to Chester"},
+        {"time":"06:50","ref":"1H82","description":"Llandudno to Manchester Airport"},
+        {"time":"07:53","ref":"1H83","description":"Llandudno to Manchester Airport"},
+        {"time":"11:53","ref":"1H87","description":"Llandudno to Manchester Airport"},
+        {"time":"14:52","ref":"1H90","description":"Llandudno to Manchester Airport"},
+        {"time":"21:57","ref":"1D23","description":"Llandudno to Chester"}
+      ]
+    },
+    {
+      "ref":"2D14",
+      "description":"Llandudno to Blaenau Ffestiniog",
+      "startSpeed": 120,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 1,
+      "events": [
+        "23:50;Snt;4-N8 4-N7",
+        "23:50;23:50;Deganwy",
+        "23:57;00:00;Llandudno Junction",
+        "00:03;00:03;Glan Conwy",
+        "00:03;Fer;41-38"
+      ],
+      "times": [
+        {"time":"10:32","ref":"2D14","description":"Llandudno to Blaenau Ffestiniog"},
+        {"time":"13:34","ref":"2D16","description":"Llandudno to Blaenau Ffestiniog"},
+        {"time":"16:29","ref":"2D18","description":"Llandudno to Blaenau Ffestiniog"}
       ]
     }
   ]
