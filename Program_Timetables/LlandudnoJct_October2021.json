@@ -1,0 +1,284 @@
+{
+  "startTime":"05:56",
+  "services": [
+    {
+      "ref":"1D81",
+      "description":"Crewe to Holyhead",
+      "startSpeed": 120,
+      "maxSpeed": 201,
+      "mass": 280,
+      "maxBrake": 105,
+      "power": 2796,
+      "increment": 1,
+      "events": [
+        "23:58;Snt;53-19 52-19",
+        "23:59;00:00;Llandudno Junction",
+        "00:03;Fer;N29-19"
+      ],
+      "times": [
+        {"time":"07:32","ref":"1D80"},
+        "11:04",
+        {"time":"12:02","description":"London Euston to Holyhead"},
+        "13:01",
+        {"time":"19:00","ref":"1D90","description":"Crewe to Bangor (Gwynedd)"},
+        {"time":"20:13","ref":"1D91"},
+        {"time":"21:10","ref":"1D92","description":"Chester to Holyhead"}
+      ]
+    },
+    {
+      "ref":"1R24",
+      "description":"Holyhead to Crewe",
+      "startSpeed": 120,
+      "maxSpeed": 201,
+      "mass": 280,
+      "maxBrake": 105,
+      "power": 2796,
+      "increment": 1,
+      "events": [
+        "23:56;Snt;N29-18 N28-18",
+        "23:59;00:00;Llandudno Junction",
+        "00:01;Fer;53-18"
+      ],
+      "times": [
+        {"time":"06:36","ref":"1R24","description":"Holyhead to London Euston"},
+        {"time":"07:40","ref":"1A13","description":"Holyhead to Crewe"},
+        {"time":"09:40","ref":"1A23","description":"Holyhead to Crewe"},
+        {"time":"13:40","ref":"1A43","description":"Holyhead to Crewe"},
+        {"time":"14:43","ref":"1A48","description":"Holyhead to London Euston"},
+        {"time":"15:36","ref":"1A53","description":"Holyhead to Crewe"},
+        {"time":"20:38","ref":"1G00","description":"Bangor (Gwynedd) to Crewe"}
+      ]
+    },
+    {
+      "ref":"1D10",
+      "description":"Crewe to Holyhead",
+      "startSpeed": 120,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 1,
+      "events": [
+        "23:59;Snt;53-19 52-19",
+        "00:00;00:00;Llandudno Junction",
+        "00:03;00:03;Conwy",
+        "00:04;Fer;N29-19"
+      ],
+      "times": [
+        {"time":"08:21","ref":"1D10","description":"Crewe to Holyhead"},
+        {"time":"09:48","ref":"1D32","description":"Manchester Airport to Holyhead"},
+        {"time":"12:21","ref":"1D12","description":"Birmingham International to Holyhead"},
+        {"time":"14:22","ref":"1D13","description":"Birmingham International to Holyhead"},
+        {"time":"16:20","ref":"1D14","description":"Birmingham International to Holyhead"},
+        {"time":"17:18","ref":"1W94","description":"Maesteg to Holyhead"},
+        {"time":"18:25","ref":"1D15","description":"Birmingham International to Holyhead"},
+        {"time":"19:56","ref":"1D32","description":"Manchester Airport to Holyhead"},
+        {"time":"21:30","ref":"1D21","description":"Chester to Holyhead"}
+      ]
+    },
+    {
+      "ref":"1W91",
+      "description":"Cardiff Central to Holyhead",
+      "startSpeed": 120,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 1,
+      "events": [
+        "23:59;Snt;53-19 52-19",
+        "00:00;00:00;Llandudno Junction",
+        "00:03;Fer;N29-19"
+      ],
+      "times": [
+        {"time":"10:32","ref":"1W91","description":"Cardiff Central to Holyhead"},
+        {"time":"10:49","ref":"1D33","description":"Manchester Airport to Holyhead"},
+        {"time":"11:50","ref":"1D34","description":"Manchester Airport to Holyhead"},
+        {"time":"13:24","ref":"1W92","description":"Cardiff Central to Holyhead"},
+        {"time":"15:33","ref":"1W93","description":"Cardiff Central to Holyhead"},
+        {"time":"19:19","ref":"1W95","description":"Cardiff Central to Holyhead"},
+        {"time":"20:54","ref":"1W96","description":"Cardiff Central to Holyhead"}
+      ]
+    },
+    {
+      "ref":"1I10",
+      "description":"Holyhead to Birmingham International",
+      "startSpeed": 120,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 1,
+      "events": [
+        "23:52;Snt;N29-18 N28-18",
+        "23:52;23:52;Conwy",
+        "23:58;00:00;Llandudno Junction",
+        "00:01;Fer;53-18"
+      ],
+      "times": [
+        {"time":"08:32","ref":"1I10","description":"Holyhead to Birmingham International"},
+        {"time":"09:25","ref":"1V94","description":"Holyhead to Cardiff Central"},
+        {"time":"10:36","ref":"1I14","description":"Holyhead to Birmingham International"},
+        {"time":"12:45","ref":"1I18","description":"Holyhead to Birmingham International"},
+        {"time":"14:31","ref":"1I22","description":"Holyhead to Birmingham International"},
+        {"time":"15:27","ref":"1V97","description":"Holyhead to Cardiff Central"},
+        {"time":"16:40","ref":"1I26","description":"Holyhead to Birmingham International"},
+        {"time":"18:33","ref":"1J70","description":"Holyhead to Shrewsbury"},
+        {"time":"19:31","ref":"1K72","description":"Holyhead to Crewe"},
+        {"time":"20:23","ref":"1G76","description":"Holyhead to Birmingham New Street"},
+        {"time":"21:29","ref":"1K20","description":"Holyhead to Crewe"}
+      ]
+    },
+    {
+      "ref":"1I10",
+      "description":"Holyhead to Birmingham International",
+      "startSpeed": 120,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 1,
+      "events": [
+        "23:55;Snt;N29-18 N28-18",
+        "23:58;00:00;Llandudno Junction",
+        "00:01;Fer;53-18"
+      ],
+      "times": [
+        {"time":"06:21","ref":"1V91","description":"Holyhead to Cardiff Central"},
+        {"time":"07:26","ref":"1V92","description":"Holyhead to Maesteg"},
+        {"time":"11:28","ref":"1V95","description":"Holyhead to Llanelli"},
+        {"time":"12:18","ref":"1V96","description":"Holyhead to Cardiff Central"},
+        {"time":"13:59","ref":"1H89","description":"Holyhead to Manchester Airport"},
+        {"time":"17:21","ref":"1V98","description":"Holyhead to Cardiff Central"}
+      ]
+    },
+    {
+      "ref":"1D81",
+      "description":"Llandudno via Rhyl",
+      "startSpeed": 120,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 1,
+      "events": [
+        "23:50;Snt;4-N8 4-N7",
+        "23:50;23:50;Deganwy",
+        "23:57;00:00;Llandudno Junction",
+        "00:01;Fer;53-18"
+      ],
+      "times": [
+        {"time":"06:07","ref":"1D81","description":"Llandudno to Chester"},
+        {"time":"06:50","ref":"1H82","description":"Llandudno to Manchester Airport"},
+        {"time":"07:53","ref":"1H83","description":"Llandudno to Manchester Airport"},
+        {"time":"11:53","ref":"1H87","description":"Llandudno to Manchester Airport"},
+        {"time":"14:52","ref":"1H90","description":"Llandudno to Manchester Airport"},
+        {"time":"21:57","ref":"1D23","description":"Llandudno to Chester"}
+      ]
+    },
+    {
+      "ref":"2D14",
+      "description":"Llandudno to Blaenau Ffestiniog",
+      "startSpeed": 120,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 1,
+      "events": [
+        "23:50;Snt;4-N8 4-N7",
+        "23:50;23:50;Deganwy",
+        "23:57;00:00;Llandudno Junction",
+        "00:03;00:03;Glan Conwy",
+        "00:03;Fer;41-38"
+      ],
+      "times": [
+        {"time":"10:32","ref":"2D14","description":"Llandudno to Blaenau Ffestiniog"},
+        {"time":"13:34","ref":"2D16","description":"Llandudno to Blaenau Ffestiniog"},
+        {"time":"16:29","ref":"2D18","description":"Llandudno to Blaenau Ffestiniog"}
+      ]
+    },
+    {
+      "ref":"2D13",
+      "description":"Blaenau Ffestiniog to Llandudno",
+      "startSpeed": 120,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 1,
+      "events": [
+        "23:51;Snt;41-38 41-37",
+        "23:51;23:51;Glan Conwy",
+        "23:57;00:00;Llandudno Junction",
+        "00:03;00:03;Deganwy",
+        "00:03;Fer;3-N8"
+      ],
+      "times": [
+        {"time":"09:50","ref":"2D13","description":"Blaenau Ffestiniog to Llandudno"},
+        {"time":"12:40","ref":"2D15","description":"Blaenau Ffestiniog to Llandudno"},
+        {"time":"16:04","ref":"2D17","description":"Blaenau Ffestiniog to Llandudno"}
+      ]
+    },
+    {
+      "ref":"1W90",
+      "description":"Rhyl to Llandudno",
+      "startSpeed": 120,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 1,
+      "events": [
+        "23:56;Snt;53-19 52-19",
+        "23:57;00:00;Llandudno Junction",
+        "00:03;00:03;Deganwy",
+        "00:03;Fer;3-N8"
+      ],
+      "times": [
+        {"time":"09:21","ref":"1W90","description":"Cardiff Central to Llandudno"},
+        {"time":"11:22","ref":"1D93","description":"Chester to Llandudno"},
+        {"time":"14:00","ref":"1D36","description":"Manchester Airport to Llandudno"}
+      ]
+    },
+    {
+      "ref":"2D78",
+      "description":"Llandudno to Llandudno Junction",
+      "startSpeed": 120,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 2,
+      "events": [
+        "23:48;Snt;4-N8 4-N7",
+        "23:48;23:48;Deganwy",
+        "23:51;Llandudno Junction",
+        "23:52;cdt",
+        "23:53;Fns;2D51"
+      ],
+      "times": [
+        "06:13","07:31","07:45","08:19","10:59","11:37","12:25","13:09","14:27","14:53","16:52","17:51","18:41","19:59","20:30","20:58","21:31"
+      ]
+    },
+    {
+      "ref":"2D51",
+      "description":"Llandudno Junction to Llandudno",
+      "startSpeed": 0,
+      "maxSpeed": 161,
+      "mass": 147,
+      "maxBrake": 55,
+      "power": 1007,
+      "increment": 2,
+      "events": [
+        "23:53;Sns;2D78",
+        "00:00;Llandudno Junction",
+        "00:03;00:03;Deganwy",
+        "00:03;Fer;3-N8"
+      ],
+      "times": [
+        "06:13","07:31","07:45","08:19","10:59","11:37","12:25","13:09","14:27","14:53","16:52","17:51","18:41","19:59","20:30","20:58","21:31"
+      ]
+    }
+  ]
+}
