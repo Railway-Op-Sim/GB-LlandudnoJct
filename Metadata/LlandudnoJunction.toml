@@ -1,0 +1,16 @@
+name = "Llandudno Junction"
+description = "This is a small simulation representating the area around Llandudno Junction in North Wales, UK."
+display_name = "Llandudno Junction"
+country_code = "GB"
+rly_file = "LlandudnoJunction.rly"
+ttb_files = ["LlandudnoJct_October2021.ttb","LlandudnoJct_Winter_2020.ttb","LlandudnoJctFri0700to1100"]
+ssn_files = []
+doc_files = ["README.md"]
+img_files = ["LJMapImage.bmp"]
+year = 2021
+factual = true
+difficulty = 2
+author = "Krizar"
+contributors = ["Daniel Gill"]
+version = "1.0.0"
+release_date = "2022-02-52"
