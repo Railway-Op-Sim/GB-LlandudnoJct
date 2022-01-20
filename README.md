@@ -8,13 +8,13 @@ This is a small simulation representating the area around Llandudno Junction in 
 
 | Stage         | Status        |
 | ------------- |:-------------:|
-| Track Plan     | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Signalling      | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
-| Naming | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24">      |
-| Speed Limits | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Distances | <img src="https://image.flaticon.com/icons/svg/1632/1632596.svg" height="24"> |
-| Timetable | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
-| Documentation | <img src="https://image.flaticon.com/icons/svg/390/390914.svg" height="24"> |
+| Track Plan     | :heavy_check_mark: |
+| Signalling      | :heavy_check_mark:      |
+| Naming | :heavy_check_mark:      |
+| Speed Limits | :heavy_check_mark: |
+| Distances | :heavy_check_mark: |
+| Timetable | :heavy_check_mark: |
+| Documentation | :x: |
 
 
 ## Data Sources
@@ -25,5 +25,3 @@ This is a small simulation representating the area around Llandudno Junction in 
 - [ABC Railway Guide](http://abcrailwayguide.uk/), for infrastructure naming
 - [Map Meurisse](https://map.meurisse.org/), for distances
 - [Western and Wales Sectional Appendix August 2020](https://sacuksprodnrdigital0001.blob.core.windows.net/sectional-appendix/Sectional%20Appendix%20full%20PDFs/Western%20and%20Wales%20Sectional%20Appendix%20August%202020.pdf)
-
-Status icons by Freepik, pixelmeetup, Pixel Perfect on FlatIcon.com *do not remove this line*.
