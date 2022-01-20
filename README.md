@@ -1,4 +1,4 @@
-# Railway Operation Simulator Template Map 
+# Llandudno Junction 
 
 This is a small simulation representating the area around Llandudno Junction in North Wales, UK. The map includes junctions towards Llandudno and Blaenau Ffestiniog and is indended as an easier simulation to operate.
 
