@@ -1,5 +1,5 @@
 {
-  "startTime":"05:56",
+  "startTime":"06:00",
   "services": [
     {
       "ref":"1D81",
@@ -168,7 +168,7 @@
         "00:01;Fer;53-18"
       ],
       "times": [
-        {"time":"06:07","ref":"1D81","description":"Llandudno to Chester"},
+        {"time":"06:11","ref":"1D81","description":"Llandudno to Chester"},
         {"time":"06:50","ref":"1H82","description":"Llandudno to Manchester Airport"},
         {"time":"07:53","ref":"1H83","description":"Llandudno to Manchester Airport"},
         {"time":"11:53","ref":"1H87","description":"Llandudno to Manchester Airport"},
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "ref":"2D78",
+      "ref":"2D52",
       "description":"Llandudno to Llandudno Junction",
       "startSpeed": 120,
       "maxSpeed": 161,
@@ -271,7 +271,7 @@
       "power": 1007,
       "increment": 2,
       "events": [
-        "23:53;Sns;2D78",
+        "23:53;Sns;2D52",
         "00:00;Llandudno Junction",
         "00:03;00:03;Deganwy",
         "00:03;Fer;3-N8"
